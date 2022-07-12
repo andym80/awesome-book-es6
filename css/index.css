@@ -31,16 +31,17 @@
 }
 
 #add-new-btn {
-  /* flex-shrink: 0; */
-  /* width: 60%; */
+  /*  flex-shrink: 0;
+  width: 60%; */
   border-right: 2px solid grey;
 }
 
 #list-btn {
-  /* flex-shrink: 0; */
-  /* width: 30%; */
+  /*  flex-shrink: 0;
+  width: 30%; */
   border-right: 2px solid grey;
   font-family: sans-serif;
+
   /* padding: 0 1rem; */
 }
 
