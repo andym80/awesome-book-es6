@@ -18,26 +18,30 @@
   display: flex;
   border: 1px solid grey;
   font-family: sans-serif;
+  justify-content: space-between;
 }
 
 .nav2 {
   display: flex;
   list-style: none;
-  gap: 60%;
-  margin-left: 60%;
+  gap: 2rem;
+  margin-left: 32%;
+  float: right;
+  padding: 0 1rem;
 }
 
 #add-new-btn {
-  flex-shrink: 0;
-  width: 60%;
+  /* flex-shrink: 0; */
+  /* width: 60%; */
   border-right: 2px solid grey;
 }
 
 #list-btn {
-  flex-shrink: 0;
-  width: 40%;
+  /* flex-shrink: 0; */
+  /* width: 30%; */
   border-right: 2px solid grey;
   font-family: sans-serif;
+  /* padding: 0 1rem; */
 }
 
 .title {
